@@ -20,3 +20,4 @@ user_input = input("How much do you love Maya, from 1 to 10?\n")
 answer = int(user_input)
 
 print(func2(answer))
+# Why are you not looking at my cod
